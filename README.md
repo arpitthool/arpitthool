@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working as an Associate Software Engineer at Acquia, Pune.
-🌱 I’m currently learning Symfony, Laravel, VueJS and Docker.
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arpit-thool/) [Leetcode](https://leetcode.com/arpit_thool/) 
+🔭 I’m currently working as an Associate Software Engineer at Acquia, Pune.  
+🌱 I’m currently learning Symfony, Laravel, VueJS and Docker.  
+📫 How to reach me:   [Linkedin](https://www.linkedin.com/in/arpit-thool/) [Leetcode](https://leetcode.com/arpit_thool/) 
 [Hackerrank](https://www.hackerrank.com/arpit_thool) [Hackerearth](https://www.hackerearth.com/@aro98)
 [Mail](arpitthool1@gmail.com)
 <!--
