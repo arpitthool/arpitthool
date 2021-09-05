@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Graduate Student pursuing M.S. in C.S. at Virginia Tech, actively seeking an internship in Summer' 22
+I am a Graduate Student pursuing M.S. in C.S. at Virginia Tech, actively seeking an internship in Summer' 22.
 Previously worked as Associate Software Engineer at Acquia, Pune.  
 Have worked with technologies such as Laravel, VueJS and Docker.  
 📫 Connect with me on:   [Linkedin](https://www.linkedin.com/in/arpit-thool/) [Leetcode](https://leetcode.com/arpit_thool/) 
